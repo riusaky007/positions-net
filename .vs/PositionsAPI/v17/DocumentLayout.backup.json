@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Doflamingo\\source\\repos\\PositionsAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF0757F-E79A-44A8-B423-A70E38D748F5}|PositionsAPI.Test\\PositionsAPI.Test.csproj|c:\\users\\doflamingo\\source\\repos\\positionsapi\\positionsapi.test\\services\\positionsservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EF0757F-E79A-44A8-B423-A70E38D748F5}|PositionsAPI.Test\\PositionsAPI.Test.csproj|solutionrelative:positionsapi.test\\services\\positionsservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651DBD94-15C8-4036-B351-B18D0AECFAB8}|PositionsAPI\\PositionsAPI.csproj|c:\\users\\doflamingo\\source\\repos\\positionsapi\\positionsapi\\services\\positionsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651DBD94-15C8-4036-B351-B18D0AECFAB8}|PositionsAPI\\PositionsAPI.csproj|solutionrelative:positionsapi\\services\\positionsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651DBD94-15C8-4036-B351-B18D0AECFAB8}|PositionsAPI\\PositionsAPI.csproj|c:\\users\\doflamingo\\source\\repos\\positionsapi\\positionsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651DBD94-15C8-4036-B351-B18D0AECFAB8}|PositionsAPI\\PositionsAPI.csproj|solutionrelative:positionsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651DBD94-15C8-4036-B351-B18D0AECFAB8}|PositionsAPI\\PositionsAPI.csproj|c:\\users\\doflamingo\\source\\repos\\positionsapi\\positionsapi\\repositories\\positionsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651DBD94-15C8-4036-B351-B18D0AECFAB8}|PositionsAPI\\PositionsAPI.csproj|solutionrelative:positionsapi\\repositories\\positionsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651DBD94-15C8-4036-B351-B18D0AECFAB8}|PositionsAPI\\PositionsAPI.csproj|c:\\users\\doflamingo\\source\\repos\\positionsapi\\positionsapi\\services\\ipositionsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651DBD94-15C8-4036-B351-B18D0AECFAB8}|PositionsAPI\\PositionsAPI.csproj|solutionrelative:positionsapi\\services\\ipositionsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651DBD94-15C8-4036-B351-B18D0AECFAB8}|PositionsAPI\\PositionsAPI.csproj|c:\\users\\doflamingo\\source\\repos\\positionsapi\\positionsapi\\repositories\\ipositionsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651DBD94-15C8-4036-B351-B18D0AECFAB8}|PositionsAPI\\PositionsAPI.csproj|solutionrelative:positionsapi\\repositories\\ipositionsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651DBD94-15C8-4036-B351-B18D0AECFAB8}|PositionsAPI\\PositionsAPI.csproj|c:\\users\\doflamingo\\source\\repos\\positionsapi\\positionsapi\\data\\positionsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651DBD94-15C8-4036-B351-B18D0AECFAB8}|PositionsAPI\\PositionsAPI.csproj|solutionrelative:positionsapi\\data\\positionsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651DBD94-15C8-4036-B351-B18D0AECFAB8}|PositionsAPI\\PositionsAPI.csproj|c:\\users\\doflamingo\\source\\repos\\positionsapi\\positionsapi\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651DBD94-15C8-4036-B351-B18D0AECFAB8}|PositionsAPI\\PositionsAPI.csproj|solutionrelative:positionsapi\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651DBD94-15C8-4036-B351-B18D0AECFAB8}|PositionsAPI\\PositionsAPI.csproj|c:\\users\\doflamingo\\source\\repos\\positionsapi\\positionsapi\\controllers\\positionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651DBD94-15C8-4036-B351-B18D0AECFAB8}|PositionsAPI\\PositionsAPI.csproj|solutionrelative:positionsapi\\controllers\\positionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PositionsServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Doflamingo\\source\\repos\\PositionsAPI\\PositionsAPI.Test\\Services\\PositionsServiceTests.cs",
+              "RelativeDocumentMoniker": "PositionsAPI.Test\\Services\\PositionsServiceTests.cs",
+              "ToolTip": "C:\\Users\\Doflamingo\\source\\repos\\PositionsAPI\\PositionsAPI.Test\\Services\\PositionsServiceTests.cs",
+              "RelativeToolTip": "PositionsAPI.Test\\Services\\PositionsServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:26:31.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PositionsService.cs",
+              "DocumentMoniker": "C:\\Users\\Doflamingo\\source\\repos\\PositionsAPI\\PositionsAPI\\Services\\PositionsService.cs",
+              "RelativeDocumentMoniker": "PositionsAPI\\Services\\PositionsService.cs",
+              "ToolTip": "C:\\Users\\Doflamingo\\source\\repos\\PositionsAPI\\PositionsAPI\\Services\\PositionsService.cs",
+              "RelativeToolTip": "PositionsAPI\\Services\\PositionsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:11:41.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPositionsService.cs",
+              "DocumentMoniker": "C:\\Users\\Doflamingo\\source\\repos\\PositionsAPI\\PositionsAPI\\Services\\IPositionsService.cs",
+              "RelativeDocumentMoniker": "PositionsAPI\\Services\\IPositionsService.cs",
+              "ToolTip": "C:\\Users\\Doflamingo\\source\\repos\\PositionsAPI\\PositionsAPI\\Services\\IPositionsService.cs",
+              "RelativeToolTip": "PositionsAPI\\Services\\IPositionsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:11:37.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PositionsController.cs",
+              "DocumentMoniker": "C:\\Users\\Doflamingo\\source\\repos\\PositionsAPI\\PositionsAPI\\Controllers\\PositionsController.cs",
+              "RelativeDocumentMoniker": "PositionsAPI\\Controllers\\PositionsController.cs",
+              "ToolTip": "C:\\Users\\Doflamingo\\source\\repos\\PositionsAPI\\PositionsAPI\\Controllers\\PositionsController.cs",
+              "RelativeToolTip": "PositionsAPI\\Controllers\\PositionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:00:51.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PositionsDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Doflamingo\\source\\repos\\PositionsAPI\\PositionsAPI\\Data\\PositionsDbContext.cs",
+              "RelativeDocumentMoniker": "PositionsAPI\\Data\\PositionsDbContext.cs",
+              "ToolTip": "C:\\Users\\Doflamingo\\source\\repos\\PositionsAPI\\PositionsAPI\\Data\\PositionsDbContext.cs",
+              "RelativeToolTip": "PositionsAPI\\Data\\PositionsDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:00:36.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PositionsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Doflamingo\\source\\repos\\PositionsAPI\\PositionsAPI\\Repositories\\PositionsRepository.cs",
+              "RelativeDocumentMoniker": "PositionsAPI\\Repositories\\PositionsRepository.cs",
+              "ToolTip": "C:\\Users\\Doflamingo\\source\\repos\\PositionsAPI\\PositionsAPI\\Repositories\\PositionsRepository.cs",
+              "RelativeToolTip": "PositionsAPI\\Repositories\\PositionsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:00:27.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPositionsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Doflamingo\\source\\repos\\PositionsAPI\\PositionsAPI\\Repositories\\IPositionsRepository.cs",
+              "RelativeDocumentMoniker": "PositionsAPI\\Repositories\\IPositionsRepository.cs",
+              "ToolTip": "C:\\Users\\Doflamingo\\source\\repos\\PositionsAPI\\PositionsAPI\\Repositories\\IPositionsRepository.cs",
+              "RelativeToolTip": "PositionsAPI\\Repositories\\IPositionsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:00:17.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\Doflamingo\\source\\repos\\PositionsAPI\\PositionsAPI\\Models\\Position.cs",
+              "RelativeDocumentMoniker": "PositionsAPI\\Models\\Position.cs",
+              "ToolTip": "C:\\Users\\Doflamingo\\source\\repos\\PositionsAPI\\PositionsAPI\\Models\\Position.cs",
+              "RelativeToolTip": "PositionsAPI\\Models\\Position.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:00:12.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Doflamingo\\source\\repos\\PositionsAPI\\PositionsAPI\\Program.cs",
+              "RelativeDocumentMoniker": "PositionsAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Doflamingo\\source\\repos\\PositionsAPI\\PositionsAPI\\Program.cs",
+              "RelativeToolTip": "PositionsAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:00:06.161Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
